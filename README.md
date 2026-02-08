@@ -34,6 +34,7 @@ Projects are added over time as new ideas or concepts are explored.
 Examples of tools you may find in this repository:
 - ATM system simulations
 - Login & authentication systems
+- Password Strength Validator
 
 More projects will be added as learning progresses.
 
